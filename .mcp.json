@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "libresprite": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": ["libresprite-mcp"]
+    }
+  }
+}
